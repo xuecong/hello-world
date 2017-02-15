@@ -1,2 +1,3 @@
 # hello-world
-just test repository
+just test repository。
+真的只是测试
